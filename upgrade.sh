@@ -8,4 +8,4 @@ sudo apt-get update
 sudo apt-get upgrade
 
 echo "Done!"
-exit(0)
+exit 0
